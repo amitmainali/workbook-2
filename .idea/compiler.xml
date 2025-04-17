@@ -9,6 +9,7 @@
         <module name="FullNameParser" />
         <module name="TheaterReservations" />
         <module name="AddressBuilder" />
+        <module name="CellPhoneService" />
         <module name="HighScoreWins" />
       </profile>
     </annotationProcessing>
