@@ -10,6 +10,7 @@
         <module name="FullNameParser" />
         <module name="TheaterReservations" />
         <module name="AddressBuilder" />
+        <module name="RollTheDice" />
         <module name="CellPhoneService" />
         <module name="HighScoreWins" />
       </profile>
