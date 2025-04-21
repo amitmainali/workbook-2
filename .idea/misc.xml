@@ -12,6 +12,8 @@
         <option value="$PROJECT_DIR$/CellPhoneService/pom.xml" />
         <option value="$PROJECT_DIR$/LoopingExercise/pom.xml" />
         <option value="$PROJECT_DIR$/RollTheDice/pom.xml" />
+        <option value="$PROJECT_DIR$/VehicleInventory/pom.xml" />
+        <option value="$PROJECT_DIR$/TestStatistics/pom.xml" />
       </list>
     </option>
   </component>

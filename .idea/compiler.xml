@@ -11,6 +11,8 @@
         <module name="TheaterReservations" />
         <module name="AddressBuilder" />
         <module name="RollTheDice" />
+        <module name="TestStatistics" />
+        <module name="VehicleInventory" />
         <module name="CellPhoneService" />
         <module name="HighScoreWins" />
       </profile>
