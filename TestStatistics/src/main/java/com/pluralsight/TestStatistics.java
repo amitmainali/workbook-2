@@ -6,10 +6,10 @@ public class TestStatistics {
         int[] testScores = {10,90,23,75,86,93,20,40,80,39};
         double sum = 0;
 
-        for (int i = 0; i < testScores.length - 1; i++) {
-            sum += testScores[i+1];
+        for (int i = 0; i < testScores.length; i++) {
+            sum += testScores[i];
         }
-        sum += testScores[0];
+
         double average = sum/(testScores.length);
 
         System.out.println("Average Score: " + average);
@@ -31,7 +31,7 @@ public class TestStatistics {
             }
         }
         System.out.println("Lowest Score: " + min);
-        
+
 //        if (testScores.length%2 == 0) {
 //
 //        }
